@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 15:24:52 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 15:50:25 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World2</title>
+      <link>http://localhost:1313/posts/hello-world2/</link>
+      <pubDate>Thu, 17 Jul 2025 15:50:25 +0900</pubDate>
+      <guid>http://localhost:1313/posts/hello-world2/</guid>
+      <description>&lt;p&gt;이것이 나의 두번째 글&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>

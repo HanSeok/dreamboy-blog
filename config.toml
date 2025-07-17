@@ -1,8 +1,13 @@
 baseURL = 'https://hanseok.github.io/dreamboy-blog/'
 languageCode = 'en-us'
 title = 'My Hugo Blog'
-theme = 'book'
+theme = 'ananke'
 
 [params]
   BookTheme = 'light' # light | dark | auto
   BookToC = true
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
